@@ -1,0 +1,21 @@
+{
+    "name": "bolenge/hello-world",
+    "description": "Juste pour tester",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Don de Dieu BOLENGE",
+            "email": "dondedieubolenge@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    }
+}
